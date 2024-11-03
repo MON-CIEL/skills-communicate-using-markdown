@@ -1,3 +1,5 @@
+# Step 1
+
 # Voici mon premier Header
 ## Voici mon deuxiéme Header
 ### Voici mon troisiéme Header
@@ -5,9 +7,13 @@
 ##### Voici mon cinquiéme Header
 ###### Voici mon sixiéme Header
 
+# Step 2
+
 ![image of Justicetocat](https://github.com/user-attachments/assets/ee70af81-b2d0-4999-9408-54254867b77b)
 
-## VOici un programme permetant de calculer le cout de 2 abonnements telephonique en fonction du nombre de message et le temps d'appel en minute
+# Step 3
+
+## Voici un programme permetant de calculer le cout de 2 abonnements telephonique en fonction du nombre de message et le temps d'appel en minute
 ```c++
 #include <stdio.h> /* Lib Printf , Scanf*/
 #include <stdlib.h> /* Lib Standard*/
@@ -141,6 +147,11 @@ int main() {
 
 ```
 
+# Step 4
+
+- [x] Cette case est cocher
+- [x] Cette case est cocher
+- [ ] Cette case n'est pas cocher
 
 
 
@@ -154,6 +165,4 @@ int main() {
 
 
 
-
-
-J'ai ajouté un code de mon choix
+J'ai ajouter une liste de tache
